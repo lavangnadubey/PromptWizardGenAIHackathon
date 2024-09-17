@@ -1,5 +1,5 @@
 # PromptWizardGenAIHackathon
-This repo contains code for Google cloud hackathon - GenAI
+This repo contains brief about our project for Google cloud hackathon - GenAI
 
 ## Use Case Title: AI-Powered Personal Financial Advisor with Document Processing Automation
 
